@@ -1,0 +1,23 @@
+//#61005
+    onRcvLoginServer: function (msgTbl) {
+        cc.vv.userMgr.kNike = msgTbl.kNike;
+            cc.vv.userMgr.kFace = msgTbl.kFace;
+    }
+
+//进入房间结果 61022 id->userData
+    onRcvEnterRoom: function (msgTbl) {
+        //自己进入房间直接取
+        userData.imageUrl = cc.vv.userMgr.kFace;
+    }
+
+//其他已经玩家 hall接收 61023 
+    onRcvAddPlayer: function (msgTbl) {
+        其他玩家选过座 则kFace有值
+
+ //#61026 选座完成
+    onRcvSelectSeat: function (msgTbl) {
+        //此时持有选座玩家的id和位置信息 没头像信息
+
+总结：
+    自己头像获取方式: 61005  kFace 最好在61022 单点消息中就保存自己头像地址
+    其他玩家头像:     61023  kFace 不管其他玩家选座没有 只要进入桌子就保存头像信息 (但是userMap中userData信息  只有id索引到的userData有imageUrl, 所以排行榜时候需要注意) 

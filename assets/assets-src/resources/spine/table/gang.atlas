@@ -1,0 +1,69 @@
+
+gang.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1-_000
+  rotate: true
+  xy: 368, 610
+  size: 129, 425
+  orig: 129, 425
+  offset: 0, 0
+  index: -1
+1-_001
+  rotate: true
+  xy: 368, 741
+  size: 185, 442
+  orig: 185, 442
+  offset: 0, 0
+  index: -1
+1-_002
+  rotate: false
+  xy: 2, 94
+  size: 208, 460
+  orig: 208, 460
+  offset: 0, 0
+  index: -1
+1-_003
+  rotate: false
+  xy: 212, 88
+  size: 151, 466
+  orig: 151, 466
+  offset: 0, 0
+  index: -1
+1-_004
+  rotate: false
+  xy: 2, 2
+  size: 101, 90
+  orig: 101, 90
+  offset: 0, 0
+  index: -1
+gang1
+  rotate: false
+  xy: 365, 127
+  size: 299, 249
+  orig: 299, 249
+  offset: 0, 0
+  index: -1
+gang2
+  rotate: false
+  xy: 812, 782
+  size: 142, 144
+  orig: 142, 144
+  offset: 0, 0
+  index: -1
+gang3
+  rotate: false
+  xy: 368, 378
+  size: 318, 230
+  orig: 318, 230
+  offset: 0, 0
+  index: -1
+gang5
+  rotate: false
+  xy: 2, 556
+  size: 364, 370
+  orig: 364, 370
+  offset: 0, 0
+  index: -1

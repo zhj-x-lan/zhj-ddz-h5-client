@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "09cec921-a783-432d-9bb3-7ce709ee9f96",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "erbiaotidi": {
+      "ver": "1.0.3",
+      "uuid": "899d36e1-af0b-4a6b-aa35-6bd2c041e016",
+      "rawTextureUuid": "09cec921-a783-432d-9bb3-7ce709ee9f96",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 720,
+      "height": 50,
+      "rawWidth": 720,
+      "rawHeight": 50,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

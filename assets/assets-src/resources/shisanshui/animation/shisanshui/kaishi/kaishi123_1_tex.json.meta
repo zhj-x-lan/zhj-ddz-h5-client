@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "eeb6c5df-9f23-45fc-9775-b790241505bb",
+  "atlasJson": "{\"imagePath\":\"kaishi123_1_tex.png\",\"SubTexture\":[{\"y\":125,\"frameX\":-5,\"frameHeight\":259,\"frameY\":-7,\"width\":219,\"frameWidth\":227,\"height\":248,\"name\":\"youchi\",\"x\":222},{\"y\":125,\"frameX\":-5,\"frameHeight\":257,\"frameY\":-4,\"width\":219,\"frameWidth\":227,\"height\":248,\"name\":\"zuochi\",\"x\":1},{\"width\":148,\"y\":375,\"height\":121,\"name\":\"zuoqiang\",\"x\":278},{\"width\":148,\"y\":498,\"height\":121,\"name\":\"youqiang\",\"x\":278},{\"y\":1,\"frameX\":-5,\"frameHeight\":137,\"frameY\":-11,\"width\":463,\"frameWidth\":471,\"height\":122,\"name\":\"caidai\",\"x\":1},{\"y\":375,\"frameX\":0,\"frameHeight\":198,\"frameY\":-1,\"width\":275,\"frameWidth\":276,\"height\":196,\"name\":\"zi\",\"x\":1},{\"width\":58,\"y\":375,\"height\":83,\"name\":\"youyan1\",\"x\":428},{\"width\":58,\"y\":125,\"height\":83,\"name\":\"zuoyan1\",\"x\":443}],\"name\":\"kaishi123_1\"}",
+  "texture": "272d9945-0720-470c-8119-44bd9e49da57",
+  "subMetas": {}
+}

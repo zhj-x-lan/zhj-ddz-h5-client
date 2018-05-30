@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "0e291d5e-2831-4cea-a15c-e6565b9b3f7e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "woxianchu": {
+      "ver": "1.0.3",
+      "uuid": "5baa7110-4dc3-41ce-8307-10cdf2407e2b",
+      "rawTextureUuid": "0e291d5e-2831-4cea-a15c-e6565b9b3f7e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 105,
+      "height": 43,
+      "rawWidth": 105,
+      "rawHeight": 43,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

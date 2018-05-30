@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "e8e28f82-6c12-4c9f-876e-51e93c1d005a",
+  "atlasJson": "{\"imagePath\":\"couyise_tex.png\",\"SubTexture\":[{\"frameWidth\":720,\"y\":464,\"frameX\":0,\"frameHeight\":200,\"frameY\":-1,\"width\":720,\"height\":198,\"name\":\"diban\",\"x\":1},{\"width\":720,\"y\":250,\"height\":212,\"name\":\"sanshunzi1\",\"x\":1},{\"width\":720,\"y\":1,\"height\":247,\"name\":\"sanshunzi3\",\"x\":1},{\"frameWidth\":317,\"y\":664,\"frameX\":-9,\"frameHeight\":120,\"frameY\":-6,\"width\":304,\"height\":106,\"name\":\"sanshunzi2\",\"x\":1},{\"width\":117,\"y\":772,\"height\":116,\"name\":\"guangxiao\",\"x\":1}],\"name\":\"couyise\"}",
+  "texture": "a292f2c8-8a00-410d-84c9-ddce94f39ad0",
+  "subMetas": {}
+}

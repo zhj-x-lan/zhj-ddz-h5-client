@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "2d0548e9-c828-4f8f-a620-c6e6e7ef5ac3",
+  "atlasJson": "{\"SubTexture\":[{\"width\":1126,\"y\":1,\"height\":707,\"name\":\"jinbi04\",\"x\":1},{\"frameX\":0,\"frameHeight\":204,\"y\":916,\"frameY\":0,\"frameWidth\":817,\"width\":816,\"height\":204,\"name\":\"caidaiying\",\"x\":1},{\"width\":817,\"y\":710,\"height\":204,\"name\":\"caidai\",\"x\":1},{\"width\":688,\"y\":1,\"height\":545,\"name\":\"xiaoxingxing\",\"x\":1129},{\"width\":442,\"y\":954,\"height\":160,\"name\":\"woyingle\",\"x\":819},{\"width\":530,\"y\":548,\"height\":404,\"name\":\"jinbi\",\"x\":1129},{\"width\":143,\"y\":710,\"height\":153,\"name\":\"jinbi01\",\"x\":820},{\"width\":50,\"y\":865,\"height\":37,\"name\":\"jinbi02\",\"x\":884},{\"width\":62,\"y\":865,\"height\":71,\"name\":\"jinbi03\",\"x\":820}],\"name\":\"niyingle\",\"imagePath\":\"niyingle_tex.png\"}",
+  "texture": "645a0b79-75f0-4f14-821f-e390bc3b2e6d",
+  "subMetas": {}
+}

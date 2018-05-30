@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "6558bfe8-4730-411a-a267-e1101578d8de",
+  "atlasJson": "{\"SubTexture\":[{\"width\":82,\"y\":106,\"height\":79,\"name\":\"modian\",\"x\":317},{\"width\":68,\"y\":102,\"height\":106,\"name\":\"mj_back_xia_peng\",\"x\":247},{\"frameX\":-1,\"frameHeight\":189,\"y\":1,\"frameY\":-4,\"frameWidth\":124,\"width\":121,\"height\":184,\"name\":\"shaizi1\",\"x\":124},{\"frameX\":0,\"frameHeight\":195,\"y\":1,\"frameY\":-10,\"frameWidth\":121,\"width\":121,\"height\":185,\"name\":\"shaizi2\",\"x\":1},{\"frameX\":-1,\"frameHeight\":102,\"y\":1,\"frameY\":0,\"frameWidth\":114,\"width\":110,\"height\":99,\"name\":\"da\",\"x\":247},{\"width\":78,\"y\":1,\"height\":103,\"name\":\"bao\",\"x\":359}],\"name\":\"dabao\",\"imagePath\":\"dabao_tex.png\"}",
+  "texture": "43395ada-f8a1-42b6-8dac-ecba65166620",
+  "subMetas": {}
+}

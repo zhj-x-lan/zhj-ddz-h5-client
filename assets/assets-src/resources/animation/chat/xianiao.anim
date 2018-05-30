@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "xianiao",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.1666666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "c8b57ca6-27c4-49c1-bdc3-fe5e233b49bc"
+            }
+          },
+          {
+            "frame": 0.2833333333333333,
+            "value": {
+              "__uuid__": "b844e8eb-ea89-49f5-8dfa-44a950cd1c0d"
+            }
+          },
+          {
+            "frame": 0.5833333333333334,
+            "value": {
+              "__uuid__": "650cd25b-7119-49c1-a658-638ba1b8d06f"
+            }
+          },
+          {
+            "frame": 0.8666666666666667,
+            "value": {
+              "__uuid__": "1555f2fd-8fc3-42fe-b763-184de86a9b0c"
+            }
+          },
+          {
+            "frame": 1.15,
+            "value": {
+              "__uuid__": "c8b57ca6-27c4-49c1-bdc3-fe5e233b49bc"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

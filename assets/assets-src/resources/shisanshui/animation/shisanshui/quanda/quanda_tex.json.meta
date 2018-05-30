@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "30e0c4ff-6948-402d-8995-7985ff92eafd",
+  "atlasJson": "{\"imagePath\":\"quanda_tex.png\",\"SubTexture\":[{\"frameWidth\":720,\"y\":226,\"frameX\":0,\"frameHeight\":200,\"frameY\":-1,\"width\":720,\"height\":198,\"name\":\"diban\",\"x\":1},{\"width\":720,\"y\":426,\"height\":164,\"name\":\"sanshunzi1\",\"x\":1},{\"width\":720,\"y\":1,\"height\":223,\"name\":\"sanshunzi3\",\"x\":1},{\"frameWidth\":219,\"y\":1,\"frameX\":-5,\"frameHeight\":115,\"frameY\":-5,\"width\":208,\"height\":105,\"name\":\"sanshunzi2\",\"x\":723},{\"width\":117,\"y\":108,\"height\":116,\"name\":\"guangxiao\",\"x\":723}],\"name\":\"quanda\"}",
+  "texture": "19368f3e-2cf3-4ebe-a9ab-7cab4b677fb8",
+  "subMetas": {}
+}

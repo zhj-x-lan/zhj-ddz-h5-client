@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "zhouma",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.5166666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "9c60cec3-473f-4b7e-87e1-159db5ef878f"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "d7a35792-c301-4833-9589-abbf4be6a726"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "9c60cec3-473f-4b7e-87e1-159db5ef878f"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

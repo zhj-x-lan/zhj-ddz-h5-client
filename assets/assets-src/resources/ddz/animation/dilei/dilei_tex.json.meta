@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "755ef123-022d-4c6d-89b6-0da4a7fc517e",
+  "atlasJson": "{\"SubTexture\":[{\"width\":311,\"y\":551,\"height\":264,\"name\":\"zhadan\",\"x\":1},{\"width\":154,\"y\":551,\"height\":159,\"name\":\"huohua01\",\"x\":314},{\"width\":202,\"y\":817,\"height\":189,\"name\":\"huohua02\",\"x\":1},{\"width\":445,\"y\":1,\"height\":557,\"name\":\"zhadan02\",\"x\":495},{\"width\":492,\"y\":1,\"height\":548,\"name\":\"zhadan03\",\"x\":1}],\"name\":\"NewProject\",\"imagePath\":\"NewProject_tex.png\"}",
+  "texture": "53c42008-d2cf-4a35-82d9-29b8e7163f1b",
+  "subMetas": {}
+}

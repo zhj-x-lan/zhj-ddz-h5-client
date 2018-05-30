@@ -1,0 +1,61 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "daxiao",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.0166666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "cd5b5902-f943-4be5-8d52-a993e4649008"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "8d61bf61-4edb-48ed-9145-e2076d9ba8ba"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "4fd70a00-b8c3-47c9-a398-979c66178193"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "d5db7da5-bc97-460e-8967-51b100fc1a5f"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "16d25775-99bf-4b00-9920-6686087d9fde"
+            }
+          },
+          {
+            "frame": 0.8333333333333334,
+            "value": {
+              "__uuid__": "f05075fd-0024-419a-abdc-820bc08dc578"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "6e21d637-7351-4f50-beaf-dd21fb62595f"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

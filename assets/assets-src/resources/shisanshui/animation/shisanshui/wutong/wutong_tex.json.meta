@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "137104c1-3861-4c9c-a3ab-0bd0f62b11c8",
+  "atlasJson": "{\"SubTexture\":[{\"frameX\":0,\"frameHeight\":168,\"y\":1,\"frameY\":-3,\"frameWidth\":308,\"width\":308,\"height\":165,\"name\":\"faguang1\",\"x\":1},{\"frameX\":0,\"frameHeight\":66,\"y\":168,\"frameY\":0,\"frameWidth\":133,\"width\":131,\"height\":66,\"name\":\"wutong2\",\"x\":1}],\"name\":\"wutong\",\"imagePath\":\"wutong_tex.png\"}",
+  "texture": "d14985a8-e0e7-4ca0-89f8-ca0e442f432d",
+  "subMetas": {}
+}

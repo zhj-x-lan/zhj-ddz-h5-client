@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "240a6bc8-acbe-4808-b53e-1f57eba65057",
+  "atlasJson": "{\"imagePath\":\"sitaosantiao_tex.png\",\"SubTexture\":[{\"frameWidth\":720,\"y\":1,\"frameX\":0,\"frameHeight\":261,\"frameY\":-18,\"width\":720,\"height\":232,\"name\":\"yitiaolong1\",\"x\":1},{\"frameWidth\":288,\"y\":1,\"frameX\":-18,\"frameHeight\":113,\"frameY\":-9,\"width\":259,\"height\":87,\"name\":\"yitiaolong2\",\"x\":723},{\"frameWidth\":720,\"y\":235,\"frameX\":0,\"frameHeight\":200,\"frameY\":-1,\"width\":720,\"height\":198,\"name\":\"diban\",\"x\":1},{\"width\":117,\"y\":90,\"height\":116,\"name\":\"guangxiao\",\"x\":723}],\"name\":\"sitaosantiao\"}",
+  "texture": "2ac0a726-fedb-4ca2-bfe3-d3a592bacfaa",
+  "subMetas": {}
+}

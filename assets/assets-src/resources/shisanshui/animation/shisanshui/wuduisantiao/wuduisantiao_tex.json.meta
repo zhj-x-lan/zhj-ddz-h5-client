@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "42983c69-9e78-403b-bd15-1d2a887967cc",
+  "atlasJson": "{\"imagePath\":\"wuduisantiao_tex.png\",\"SubTexture\":[{\"frameWidth\":720,\"y\":265,\"frameX\":0,\"frameHeight\":200,\"frameY\":-1,\"width\":720,\"height\":198,\"name\":\"diban\",\"x\":1},{\"width\":720,\"y\":465,\"height\":162,\"name\":\"sanshunzi1\",\"x\":1},{\"width\":720,\"y\":1,\"height\":262,\"name\":\"sanshunzi3\",\"x\":1},{\"frameWidth\":419,\"y\":629,\"frameX\":-11,\"frameHeight\":113,\"frameY\":-2,\"width\":403,\"height\":108,\"name\":\"sanshunzi2\",\"x\":1},{\"width\":117,\"y\":629,\"height\":116,\"name\":\"guangxiao\",\"x\":406}],\"name\":\"wuduisantiao\"}",
+  "texture": "6c5ca562-a6b2-4fbc-899c-87007882c348",
+  "subMetas": {}
+}

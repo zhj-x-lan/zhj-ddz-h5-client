@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "xishou",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.7666666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "9846bd33-bb4c-4ffa-b28c-5ecec8ff68ab"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "2a6e8fa2-84c0-4b31-adc7-71c41f95a306"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "fe9a863b-8d07-402b-9934-ff9817daa7f3"
+            }
+          },
+          {
+            "frame": 0.75,
+            "value": {
+              "__uuid__": "9846bd33-bb4c-4ffa-b28c-5ecec8ff68ab"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

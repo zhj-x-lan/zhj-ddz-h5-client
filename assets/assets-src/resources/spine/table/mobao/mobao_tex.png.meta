@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "25fff82a-65f1-4299-9bda-3588f6437d6e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "mobao_tex": {
+      "ver": "1.0.3",
+      "uuid": "24869d78-25fe-41fa-b63b-0f81d83690b3",
+      "rawTextureUuid": "25fff82a-65f1-4299-9bda-3588f6437d6e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -7.5,
+      "offsetY": 112,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 239,
+      "height": 286,
+      "rawWidth": 256,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

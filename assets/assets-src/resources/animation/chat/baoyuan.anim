@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "baoyuan",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.5166666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "6a7f8a39-8f16-4dd0-8be9-5ddfbb7082ef"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "1ada98da-04bf-45fb-9e76-6e5d7d24f0f9"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "6a7f8a39-8f16-4dd0-8be9-5ddfbb7082ef"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

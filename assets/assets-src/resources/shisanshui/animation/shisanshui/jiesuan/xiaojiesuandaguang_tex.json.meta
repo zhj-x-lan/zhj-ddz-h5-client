@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "c3a0b79a-027f-4901-9b3d-0b89e7089a04",
+  "atlasJson": "{\"name\":\"xiaojiesuandaguang\",\"imagePath\":\"xiaojiesuandaguang_tex.png\",\"SubTexture\":[{\"frameHeight\":1280,\"y\":1,\"frameWidth\":720,\"frameX\":0,\"width\":471,\"frameY\":-107,\"height\":769,\"name\":\"dengguang2\",\"x\":1},{\"frameHeight\":1280,\"y\":1,\"frameWidth\":720,\"frameX\":-235,\"width\":485,\"frameY\":-127,\"height\":733,\"name\":\"dengguang1\",\"x\":474}]}",
+  "texture": "5b8b9d4a-716b-4b38-aaa8-c6c2a13d751d",
+  "subMetas": {}
+}

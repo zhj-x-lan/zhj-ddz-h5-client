@@ -1,0 +1,88 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "bomb1",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1,
+  "sample": 15,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "b684025d-0d6a-4deb-9196-f844b341e36d"
+            }
+          },
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "843d8761-9a87-457d-9ae9-45846c6dacc9"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "843d8761-9a87-457d-9ae9-45846c6dacc9"
+            }
+          },
+          {
+            "frame": 0.13333333333333333,
+            "value": {
+              "__uuid__": "caf24a46-7252-4194-b708-88bd2c071d5d"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "fea7dc26-1341-4a86-b1c0-a9bd70e35145"
+            }
+          },
+          {
+            "frame": 0.26666666666666666,
+            "value": {
+              "__uuid__": "6d6f16ac-1046-4f9c-8902-e0d86265a750"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "39709da8-b70a-4a91-9901-814b18da7b80"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "c977abcf-641d-48f1-8eaf-d53af20bba02"
+            }
+          },
+          {
+            "frame": 0.4666666666666667,
+            "value": {
+              "__uuid__": "76f4e1f7-3931-4e64-b2dc-07a5ed1cdb40"
+            }
+          },
+          {
+            "frame": 0.5333333333333333,
+            "value": {
+              "__uuid__": "4a2ab92a-b46d-4592-8a5b-a4ae77b29c30"
+            }
+          }
+        ]
+      }
+    },
+    "props": {}
+  },
+  "events": [
+    {
+      "frame": 1,
+      "func": "hideAnimationNode",
+      "params": [
+        "123"
+      ]
+    }
+  ]
+}

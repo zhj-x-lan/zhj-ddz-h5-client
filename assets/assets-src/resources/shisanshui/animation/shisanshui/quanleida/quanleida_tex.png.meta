@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "7cacc9f0-0e99-4268-97dd-636fd3546ce7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "quanleida_tex": {
+      "ver": "1.0.3",
+      "uuid": "050c8019-3cd9-4ea0-8ba9-dcafc622ee6a",
+      "rawTextureUuid": "7cacc9f0-0e99-4268-97dd-636fd3546ce7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -122.5,
+      "offsetY": 8.5,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 777,
+      "height": 1005,
+      "rawWidth": 1024,
+      "rawHeight": 1024,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

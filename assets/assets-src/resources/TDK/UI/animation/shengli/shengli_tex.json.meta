@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "f0bc9186-75dc-47d8-a18d-254a892801d9",
+  "atlasJson": "{\"SubTexture\":[{\"width\":302,\"y\":1,\"height\":68,\"name\":\"caidai\",\"x\":1},{\"width\":147,\"y\":1,\"height\":76,\"name\":\"shengli\",\"x\":305}],\"name\":\"shengli\",\"imagePath\":\"shengli_tex.png\"}",
+  "texture": "5aa8a9f8-b250-404a-9293-0c8e03bac47b",
+  "subMetas": {}
+}

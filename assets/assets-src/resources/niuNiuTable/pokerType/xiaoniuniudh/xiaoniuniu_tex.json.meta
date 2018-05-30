@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "3749f2b9-380c-4e70-87b8-668264021f8c",
+  "atlasJson": "{\"imagePath\":\"xiaoniuniu_tex.png\",\"SubTexture\":[{\"width\":29,\"y\":93,\"height\":27,\"name\":\"niutui1\",\"x\":79},{\"width\":25,\"y\":48,\"height\":43,\"name\":\"niutui2\",\"x\":79},{\"width\":76,\"y\":48,\"height\":70,\"name\":\"niushen\",\"x\":1},{\"width\":26,\"y\":48,\"height\":24,\"name\":\"niutui3\",\"x\":106},{\"width\":28,\"y\":1,\"height\":47,\"name\":\"niutui4\",\"x\":221},{\"width\":218,\"y\":1,\"height\":45,\"name\":\"01\",\"x\":1}],\"name\":\"xiaoniuniu\"}",
+  "texture": "ef2e8895-2241-4e25-9a47-52883678c197",
+  "subMetas": {}
+}

@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "aed374ac-72ea-492a-83ef-d708c128fe0f",
+  "atlasJson": "{\"SubTexture\":[{\"frameX\":-30,\"frameHeight\":105,\"y\":403,\"frameY\":0,\"frameWidth\":509,\"width\":451,\"height\":105,\"name\":\"guoying\",\"x\":1},{\"frameX\":-54,\"frameHeight\":538,\"y\":1,\"frameY\":-103,\"frameWidth\":536,\"width\":446,\"height\":425,\"name\":\"guo1\",\"x\":1283},{\"frameX\":-54,\"frameHeight\":538,\"y\":235,\"frameY\":-343,\"frameWidth\":536,\"width\":446,\"height\":166,\"name\":\"guo\",\"x\":1},{\"frameX\":0,\"frameHeight\":240,\"y\":1,\"frameY\":-2,\"frameWidth\":1280,\"width\":1280,\"height\":232,\"name\":\"diban\",\"x\":1},{\"width\":247,\"y\":235,\"height\":102,\"name\":\"languo\",\"x\":449}],\"name\":\"languo\",\"imagePath\":\"languo_tex.png\"}",
+  "texture": "f88ee048-8105-4fac-8178-52c5daf32b4f",
+  "subMetas": {}
+}

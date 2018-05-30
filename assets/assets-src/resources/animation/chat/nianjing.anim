@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "nianjing",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.0166666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "d9b1bace-153c-47a1-b790-69e4bd070483"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "17c383d0-e150-459c-92da-3a558f8e988c"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "978264bd-6d35-4729-8952-ac5a4dd82dff"
+            }
+          },
+          {
+            "frame": 0.75,
+            "value": {
+              "__uuid__": "f6345ffc-a52c-4fe1-bde7-a736107e37e7"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "d9b1bace-153c-47a1-b790-69e4bd070483"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

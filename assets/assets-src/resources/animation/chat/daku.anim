@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "daku",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.0166666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "0b229c4d-3689-48e1-9731-de7fcb330453"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "58754fb6-9193-4faa-984c-ccdb45f53cf8"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "fcb7943e-4ada-4b28-8f28-d83339494221"
+            }
+          },
+          {
+            "frame": 0.75,
+            "value": {
+              "__uuid__": "e9b580bf-240e-43c7-8383-42ca2e05b65c"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "0b229c4d-3689-48e1-9731-de7fcb330453"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

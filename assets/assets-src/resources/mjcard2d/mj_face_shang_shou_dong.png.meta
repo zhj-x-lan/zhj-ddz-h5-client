@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "bf49da9e-cb42-4a3c-83a6-501606e611ed",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "mj_face_shang_shou_dong": {
+      "ver": "1.0.3",
+      "uuid": "1e30e7f0-bca9-4a13-900f-7f21d142fe1f",
+      "rawTextureUuid": "bf49da9e-cb42-4a3c-83a6-501606e611ed",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 2,
+      "trimX": 2,
+      "trimY": 7,
+      "width": 60,
+      "height": 68,
+      "rawWidth": 65,
+      "rawHeight": 86,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

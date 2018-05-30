@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "haixiu",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.2666666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "d0e0d7ab-6065-4325-9730-7c6002ae4e15"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "62327b17-8ab5-45ed-8e14-d2cd405ad021"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "50c0098c-ec90-48a3-9e60-d80510090f3b"
+            }
+          },
+          {
+            "frame": 0.75,
+            "value": {
+              "__uuid__": "79d088d0-fa52-4129-be28-ed1d876762ab"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "50c0098c-ec90-48a3-9e60-d80510090f3b"
+            }
+          },
+          {
+            "frame": 1.25,
+            "value": {
+              "__uuid__": "79d088d0-fa52-4129-be28-ed1d876762ab"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

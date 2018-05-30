@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "20cc2ede-2c25-4739-b29f-001679a80e94",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "fanti": {
+      "ver": "1.0.3",
+      "uuid": "4f0755da-48a7-451b-b8b2-e21684793439",
+      "rawTextureUuid": "20cc2ede-2c25-4739-b29f-001679a80e94",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 107,
+      "height": 77,
+      "rawWidth": 107,
+      "rawHeight": 77,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

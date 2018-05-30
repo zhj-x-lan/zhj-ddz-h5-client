@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "loulian",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.05,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "e40b5c3e-52ec-43b8-9b3f-89752dcabb5e"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "a1a1fb7e-70cc-45dd-8f2c-11746cec869b"
+            }
+          },
+          {
+            "frame": 0.4166666666666667,
+            "value": {
+              "__uuid__": "c49f9848-76fd-477e-9028-e7ddf2fc080f"
+            }
+          },
+          {
+            "frame": 0.6166666666666667,
+            "value": {
+              "__uuid__": "7639203b-a465-4dbb-97d1-ad79394d1b07"
+            }
+          },
+          {
+            "frame": 0.8333333333333334,
+            "value": {
+              "__uuid__": "d59ccc78-e52d-4206-95a3-1a4120761e7a"
+            }
+          },
+          {
+            "frame": 1.0333333333333334,
+            "value": {
+              "__uuid__": "e40b5c3e-52ec-43b8-9b3f-89752dcabb5e"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

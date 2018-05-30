@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "fengRight",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.43,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 22,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "820b1b07-7c32-4ac6-bfe3-e30cc941ceb3"
+            }
+          },
+          {
+            "frame": 0.4166666666666667,
+            "value": {
+              "__uuid__": "820b1b07-7c32-4ac6-bfe3-e30cc941ceb3"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 255
+        },
+        {
+          "frame": 0.4166666666666667,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": []
+}

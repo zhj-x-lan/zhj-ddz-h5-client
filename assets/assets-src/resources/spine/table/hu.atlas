@@ -1,0 +1,41 @@
+
+hu.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gdian
+  rotate: false
+  xy: 2, 2
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+hu
+  rotate: false
+  xy: 315, 204
+  size: 268, 269
+  orig: 268, 269
+  offset: 0, 0
+  index: -1
+jg
+  rotate: false
+  xy: 585, 357
+  size: 75, 116
+  orig: 75, 116
+  offset: 0, 0
+  index: -1
+quan
+  rotate: false
+  xy: 2, 171
+  size: 311, 302
+  orig: 311, 302
+  offset: 0, 0
+  index: -1
+sd
+  rotate: false
+  xy: 2, 41
+  size: 308, 128
+  orig: 308, 128
+  offset: 0, 0
+  index: -1

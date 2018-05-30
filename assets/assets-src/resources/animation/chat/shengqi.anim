@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "shengqi",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.6,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "a6bc2d5f-646d-4978-994c-b1af15d4383b"
+            }
+          },
+          {
+            "frame": 0.11666666666666667,
+            "value": {
+              "__uuid__": "cf4b8e72-3866-416c-a925-089ac8309015"
+            }
+          },
+          {
+            "frame": 0.2833333333333333,
+            "value": {
+              "__uuid__": "46331057-8e14-4e57-ab83-13c064a93da2"
+            }
+          },
+          {
+            "frame": 0.45,
+            "value": {
+              "__uuid__": "1feefd19-5879-4003-9f14-37b45ed45ef4"
+            }
+          },
+          {
+            "frame": 0.5833333333333334,
+            "value": {
+              "__uuid__": "a6bc2d5f-646d-4978-994c-b1af15d4383b"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

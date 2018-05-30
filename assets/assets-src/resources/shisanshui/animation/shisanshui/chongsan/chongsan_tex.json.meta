@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "4bba6205-00d0-400b-a597-39fb31d5fc76",
+  "atlasJson": "{\"imagePath\":\"chongsan_tex.png\",\"SubTexture\":[{\"frameWidth\":308,\"y\":1,\"frameX\":0,\"frameHeight\":168,\"frameY\":-3,\"width\":308,\"height\":165,\"name\":\"faguang1\",\"x\":1},{\"width\":301,\"y\":168,\"height\":70,\"name\":\"chongsan2\",\"x\":1},{\"width\":1,\"y\":240,\"height\":1,\"name\":\"congsan2\",\"x\":1}],\"name\":\"chongsan\"}",
+  "texture": "4f6761b6-8e8c-4f24-bcf3-3fa7a3d3b513",
+  "subMetas": {}
+}

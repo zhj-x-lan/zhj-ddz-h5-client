@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "971b9979-71fa-418b-bd9c-fe0a15a4aed5",
+  "atlasJson": "{\"imagePath\":\"qingjiyou_tex.png\",\"SubTexture\":[{\"width\":428,\"y\":1,\"height\":84,\"name\":\"you(1)\",\"x\":1},{\"frameWidth\":224,\"y\":87,\"frameX\":-12,\"frameHeight\":36,\"frameY\":0,\"width\":212,\"height\":32,\"name\":\"you(2)\",\"x\":1}],\"name\":\"qingjiyou\"}",
+  "texture": "b41fe4de-ebac-46ba-8807-4512306f1c5b",
+  "subMetas": {}
+}

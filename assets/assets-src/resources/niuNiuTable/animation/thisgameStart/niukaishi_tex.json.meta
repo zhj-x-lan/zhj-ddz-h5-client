@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "1ce6caa3-f9cc-4119-a01a-978e9afe163d",
+  "atlasJson": "{\"SubTexture\":[{\"frameX\":-2,\"frameHeight\":167,\"y\":1,\"frameY\":-2,\"frameWidth\":218,\"width\":214,\"height\":165,\"name\":\"niu\",\"x\":1},{\"frameX\":-3,\"frameHeight\":154,\"y\":1,\"frameY\":-2,\"frameWidth\":173,\"width\":170,\"height\":152,\"name\":\"youchi\",\"x\":217},{\"width\":170,\"y\":155,\"height\":151,\"name\":\"zuochi\",\"x\":217},{\"width\":297,\"y\":308,\"height\":82,\"name\":\"caidai\",\"x\":1},{\"width\":160,\"y\":168,\"height\":121,\"name\":\"kaishi\",\"x\":1}],\"name\":\"niukaishi\",\"imagePath\":\"niukaishi_tex.png\"}",
+  "texture": "2cf6b31f-72d9-4387-b006-c4d9573605a9",
+  "subMetas": {}
+}

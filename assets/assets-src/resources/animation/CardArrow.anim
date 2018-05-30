@@ -1,0 +1,108 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "CardArrow",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.0833333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "d9731599-60ff-445f-a6a0-57a4ab910311"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            0.2,
+            25
+          ]
+        },
+        {
+          "frame": 0.4,
+          "value": [
+            0.2,
+            -13
+          ]
+        },
+        {
+          "frame": 0.5,
+          "value": [
+            0.2,
+            -13
+          ]
+        },
+        {
+          "frame": 0.9666666666666667,
+          "value": [
+            0.2,
+            25
+          ]
+        },
+        {
+          "frame": 1.0833333333333333,
+          "value": [
+            0.2,
+            25
+          ]
+        }
+      ],
+      "scaleX": [
+        {
+          "frame": 0,
+          "value": 0.8
+        },
+        {
+          "frame": 0.4,
+          "value": 0.4
+        },
+        {
+          "frame": 0.5,
+          "value": 0.4
+        },
+        {
+          "frame": 0.9666666666666667,
+          "value": 0.8
+        },
+        {
+          "frame": 1.0833333333333333,
+          "value": 0.8
+        }
+      ],
+      "scaleY": [
+        {
+          "frame": 0,
+          "value": 0.8
+        },
+        {
+          "frame": 0.4,
+          "value": 0.5
+        },
+        {
+          "frame": 0.5,
+          "value": 0.5
+        },
+        {
+          "frame": 0.9666666666666667,
+          "value": 0.8
+        },
+        {
+          "frame": 1.0833333333333333,
+          "value": 0.8
+        }
+      ]
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "paomadengdonghua",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.0166666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "098da0d8-63b9-48ae-874c-e1edeb161074"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "d69ccaef-524c-48d9-a238-d43ac6b30e6a"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "098da0d8-63b9-48ae-874c-e1edeb161074"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "88a8a244-9f9a-462b-a697-a68c1f474d4d",
+  "atlasJson": "{\"imagePath\":\"sanshunzi_tex.png\",\"SubTexture\":[{\"frameWidth\":720,\"y\":240,\"frameX\":0,\"frameHeight\":200,\"frameY\":-1,\"width\":720,\"height\":198,\"name\":\"diban\",\"x\":1},{\"width\":720,\"y\":440,\"height\":162,\"name\":\"sanshunzi1\",\"x\":1},{\"width\":720,\"y\":1,\"height\":237,\"name\":\"sanshunzi3\",\"x\":1},{\"frameWidth\":399,\"y\":604,\"frameX\":-20,\"frameHeight\":127,\"frameY\":-9,\"width\":359,\"height\":104,\"name\":\"sanshunzi2\",\"x\":1},{\"width\":117,\"y\":604,\"height\":116,\"name\":\"guangxiao\",\"x\":362}],\"name\":\"sanshunzi\"}",
+  "texture": "11e133cb-1643-4ecb-aad4-d051be2ac932",
+  "subMetas": {}
+}

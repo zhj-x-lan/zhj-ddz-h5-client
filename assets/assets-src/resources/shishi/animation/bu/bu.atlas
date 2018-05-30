@@ -1,0 +1,76 @@
+
+bu.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 2, 2
+  size: 143, 145
+  orig: 143, 145
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 899, 912
+  size: 107, 109
+  orig: 107, 109
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 851, 673
+  size: 156, 45
+  orig: 156, 45
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 614, 622
+  size: 235, 207
+  orig: 235, 207
+  offset: 0, 0
+  index: -1
+tengshe_skill02_zisheng_000
+  rotate: false
+  xy: 614, 831
+  size: 283, 190
+  orig: 283, 190
+  offset: 0, 0
+  index: -1
+tengshe_skill02_zisheng_001
+  rotate: false
+  xy: 2, 147
+  size: 294, 280
+  orig: 294, 280
+  offset: 0, 0
+  index: -1
+tengshe_skill02_zisheng_002
+  rotate: false
+  xy: 309, 732
+  size: 303, 289
+  orig: 303, 289
+  offset: 0, 0
+  index: -1
+tengshe_skill02_zisheng_003
+  rotate: false
+  xy: 2, 725
+  size: 305, 296
+  orig: 305, 296
+  offset: 0, 0
+  index: -1
+tengshe_skill02_zisheng_004
+  rotate: false
+  xy: 2, 429
+  size: 301, 294
+  orig: 301, 294
+  offset: 0, 0
+  index: -1
+tengshe_skill02_zisheng_005
+  rotate: false
+  xy: 149, 14
+  size: 137, 131
+  orig: 137, 131
+  offset: 0, 0
+  index: -1

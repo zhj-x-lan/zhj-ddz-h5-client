@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "9f4d596b-b8c6-4851-ba0f-d3a7655afe67",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "mj_face_you_chu_22": {
+      "ver": "1.0.3",
+      "uuid": "08426e42-f5cb-489a-9321-5fffe79de2d2",
+      "rawTextureUuid": "9f4d596b-b8c6-4851-ba0f-d3a7655afe67",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -4,
+      "offsetY": -0.5,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 86,
+      "height": 59,
+      "rawWidth": 94,
+      "rawHeight": 60,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

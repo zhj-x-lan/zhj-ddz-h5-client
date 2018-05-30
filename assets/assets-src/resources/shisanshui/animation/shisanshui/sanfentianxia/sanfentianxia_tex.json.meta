@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "818348c3-4135-46a9-9910-e8653229c8d0",
+  "atlasJson": "{\"imagePath\":\"sanfentianxia_tex.png\",\"SubTexture\":[{\"frameWidth\":720,\"y\":1,\"frameX\":0,\"frameHeight\":306,\"frameY\":-17,\"width\":720,\"height\":281,\"name\":\"yitiaolong1\",\"x\":1},{\"frameWidth\":299,\"y\":1,\"frameX\":-22,\"frameHeight\":123,\"frameY\":-16,\"width\":262,\"height\":86,\"name\":\"yitiaolong2\",\"x\":723},{\"frameWidth\":720,\"y\":284,\"frameX\":0,\"frameHeight\":200,\"frameY\":-1,\"width\":720,\"height\":198,\"name\":\"diban\",\"x\":1},{\"width\":117,\"y\":89,\"height\":116,\"name\":\"guangxiao\",\"x\":723}],\"name\":\"sanfentianxia\"}",
+  "texture": "8a938373-b939-49de-a3b4-c6c7b7021807",
+  "subMetas": {}
+}

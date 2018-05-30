@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "6f853f0a-582a-4570-9ec0-1ab4faf72af4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "mj_face_xia_chu_41": {
+      "ver": "1.0.3",
+      "uuid": "2b11d832-539c-46b4-a246-0af0d5d94ae7",
+      "rawTextureUuid": "6f853f0a-582a-4570-9ec0-1ab4faf72af4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 3,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 93,
+      "height": 110,
+      "rawWidth": 93,
+      "rawHeight": 116,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

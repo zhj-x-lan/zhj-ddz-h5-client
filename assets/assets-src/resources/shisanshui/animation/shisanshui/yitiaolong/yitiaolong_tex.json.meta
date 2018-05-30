@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "d78df921-e7dd-404e-a819-16d83135506c",
+  "atlasJson": "{\"imagePath\":\"yitiaolong_tex.png\",\"SubTexture\":[{\"frameWidth\":720,\"y\":1,\"frameX\":0,\"frameHeight\":339,\"frameY\":-5,\"width\":720,\"height\":326,\"name\":\"yitiaolong1\",\"x\":1},{\"frameWidth\":255,\"y\":1,\"frameX\":-21,\"frameHeight\":120,\"frameY\":-15,\"width\":200,\"height\":92,\"name\":\"yitiaolong2\",\"x\":723},{\"frameWidth\":720,\"y\":329,\"frameX\":0,\"frameHeight\":200,\"frameY\":-1,\"width\":720,\"height\":198,\"name\":\"diban\",\"x\":1},{\"width\":117,\"y\":95,\"height\":116,\"name\":\"guangxiao\",\"x\":723}],\"name\":\"yitiaolong\"}",
+  "texture": "5596b91e-5d65-446f-8297-98affb8c5aea",
+  "subMetas": {}
+}

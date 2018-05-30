@@ -1,0 +1,61 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "shouhuo",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.0166666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "594bd81e-b968-48fd-b39a-ba9e4ec82667"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "9df31a1a-db26-4ba5-940b-913a4611bdf6"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "d204a078-50b2-4fd6-9fbd-19525b243d25"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "ffd3236a-14a6-4b4c-8b8a-c83011fef89d"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "f7102f15-d122-4d05-b9d2-bed79f7d9b43"
+            }
+          },
+          {
+            "frame": 0.8333333333333334,
+            "value": {
+              "__uuid__": "ac83eee7-e2e1-44d7-ba35-4716cf271f52"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "594bd81e-b968-48fd-b39a-ba9e4ec82667"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

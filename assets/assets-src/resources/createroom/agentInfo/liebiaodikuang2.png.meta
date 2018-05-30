@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "f0a88b7a-61ba-4176-b610-b91490b15270",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "liebiaodikuang2": {
+      "ver": "1.0.3",
+      "uuid": "dc0ceb2e-0913-43b2-a7ed-42d37c53d428",
+      "rawTextureUuid": "f0a88b7a-61ba-4176-b610-b91490b15270",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 65,
+      "height": 348,
+      "rawWidth": 65,
+      "rawHeight": 348,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 22,
+      "borderRight": 25,
+      "subMetas": {}
+    }
+  }
+}

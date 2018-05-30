@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "7fe418d4-b19d-4281-9be6-84cc46f1b0fe",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "poster_tianjin_1": {
+      "ver": "1.0.3",
+      "uuid": "7d99def5-7d07-4035-96b8-240253e7bd58",
+      "rawTextureUuid": "7fe418d4-b19d-4281-9be6-84cc46f1b0fe",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1049,
+      "height": 590,
+      "rawWidth": 1049,
+      "rawHeight": 590,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

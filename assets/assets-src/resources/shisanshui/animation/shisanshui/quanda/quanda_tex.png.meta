@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "19368f3e-2cf3-4ebe-a9ab-7cab4b677fb8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "quanda_tex": {
+      "ver": "1.0.3",
+      "uuid": "2e1e2fab-9cfe-4b62-a535-067396eb1a31",
+      "rawTextureUuid": "19368f3e-2cf3-4ebe-a9ab-7cab4b677fb8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -47,
+      "offsetY": 216.5,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 928,
+      "height": 589,
+      "rawWidth": 1024,
+      "rawHeight": 1024,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "c0d6c010-61e1-4472-8b08-74da62529394",
+  "atlasJson": "{\"SubTexture\":[{\"frameX\":0,\"frameHeight\":106,\"y\":1,\"frameY\":0,\"frameWidth\":71,\"width\":68,\"height\":106,\"name\":\"mj_back_xia_peng\",\"x\":172},{\"width\":169,\"y\":1,\"height\":173,\"name\":\"mobao1\",\"x\":1},{\"width\":177,\"y\":176,\"height\":111,\"name\":\"mobao\",\"x\":1}],\"name\":\"mobao\",\"imagePath\":\"mobao_tex.png\"}",
+  "texture": "25fff82a-65f1-4299-9bda-3588f6437d6e",
+  "subMetas": {}
+}

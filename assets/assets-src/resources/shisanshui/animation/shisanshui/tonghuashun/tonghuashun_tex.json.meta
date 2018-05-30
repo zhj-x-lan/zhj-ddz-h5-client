@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "7b31541e-ff58-41a0-8510-798858f60ebf",
+  "atlasJson": "{\"SubTexture\":[{\"frameX\":0,\"frameHeight\":168,\"y\":1,\"frameY\":-3,\"frameWidth\":308,\"width\":308,\"height\":165,\"name\":\"faguang1\",\"x\":1},{\"frameX\":0,\"frameHeight\":64,\"y\":168,\"frameY\":0,\"frameWidth\":176,\"width\":174,\"height\":64,\"name\":\"tonghuashun2\",\"x\":1}],\"name\":\"tonghuashun\",\"imagePath\":\"tonghuashun_tex.png\"}",
+  "texture": "c42b0ee6-a103-48b2-9169-1f8966ade9c7",
+  "subMetas": {}
+}

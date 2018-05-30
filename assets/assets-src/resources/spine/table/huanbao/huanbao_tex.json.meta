@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "9c012613-5f5c-4169-8d5f-9b1caa4ec261",
+  "atlasJson": "{\"SubTexture\":[{\"width\":68,\"y\":1,\"height\":106,\"name\":\"baopai\",\"x\":183},{\"width\":180,\"y\":1,\"height\":173,\"name\":\"huanbao\",\"x\":1}],\"name\":\"huanbao\",\"imagePath\":\"huanbao_tex.png\"}",
+  "texture": "d52823fa-0aaa-4f1a-8063-5eeb0ab1543c",
+  "subMetas": {}
+}

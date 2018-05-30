@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "177ef906-87d4-4739-afd6-0a812b8fbe49",
+  "atlasJson": "{\"SubTexture\":[{\"frameX\":0,\"frameHeight\":511,\"y\":1,\"frameY\":0,\"frameWidth\":665,\"width\":665,\"height\":507,\"name\":\"shibainiu\",\"x\":1},{\"frameX\":0,\"frameHeight\":511,\"y\":510,\"frameY\":-118,\"frameWidth\":665,\"width\":658,\"height\":323,\"name\":\"shibaiwenzi\",\"x\":1}],\"name\":\"woshule\",\"imagePath\":\"woshule_tex.png\"}",
+  "texture": "afebfd21-7183-4ee1-8f30-350e3ca5ee61",
+  "subMetas": {}
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "2715ca0b-80d4-474e-9f4d-31157218dabe",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "mj_face_zuo_chu_18": {
+      "ver": "1.0.3",
+      "uuid": "6f3b6999-7ac7-489e-adae-803f4c627629",
+      "rawTextureUuid": "2715ca0b-80d4-474e-9f4d-31157218dabe",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 2.5,
+      "offsetY": -0.5,
+      "trimX": 5,
+      "trimY": 1,
+      "width": 89,
+      "height": 59,
+      "rawWidth": 94,
+      "rawHeight": 60,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

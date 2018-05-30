@@ -1,0 +1,147 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "bipai2",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.0833333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "card0": {
+        "props": {
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.08333333333333333,
+              "value": 0.46
+            },
+            {
+              "frame": 1.0666666666666667,
+              "value": 0.46
+            },
+            {
+              "frame": 1.0833333333333333,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "card1": {
+        "props": {
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.08333333333333333,
+              "value": 0.46
+            },
+            {
+              "frame": 1.0666666666666667,
+              "value": 0.46
+            },
+            {
+              "frame": 1.0833333333333333,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "card2": {
+        "props": {
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.08333333333333333,
+              "value": 0.46
+            },
+            {
+              "frame": 1.0666666666666667,
+              "value": 0.46
+            },
+            {
+              "frame": 1.0833333333333333,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "card3": {
+        "props": {
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.08333333333333333,
+              "value": 0.46
+            },
+            {
+              "frame": 1.0666666666666667,
+              "value": 0.46
+            },
+            {
+              "frame": 1.0833333333333333,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "card4": {
+        "props": {
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.08333333333333333,
+              "value": 0.46
+            },
+            {
+              "frame": 1.0666666666666667,
+              "value": 0.46
+            },
+            {
+              "frame": 1.0833333333333333,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "CommonType": {
+        "props": {
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.08333333333333333,
+              "value": 1
+            },
+            {
+              "frame": 1.0666666666666667,
+              "value": 1
+            },
+            {
+              "frame": 1.0833333333333333,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

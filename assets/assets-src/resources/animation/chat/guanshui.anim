@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "guanshui",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.0166666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "05a257b9-90ad-4b89-9928-7bf069dbe7db"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "9ca2ba30-074d-4392-a29d-98873bbd6656"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "6e305ee8-1fa5-4342-9a88-5ac3f13c973a"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "88a360a8-f73b-4c5c-9164-379f5f5cd00b"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

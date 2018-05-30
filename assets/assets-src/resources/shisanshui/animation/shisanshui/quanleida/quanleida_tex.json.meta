@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "18065921-9297-42b2-b3dd-354954bfdbee",
+  "atlasJson": "{\"imagePath\":\"quanleida_tex.png\",\"name\":\"quanleida\",\"SubTexture\":[{\"frameY\":0,\"y\":1,\"frameWidth\":658,\"frameX\":0,\"frameHeight\":372,\"width\":658,\"height\":359,\"name\":\"caidai\",\"x\":1},{\"frameY\":-22,\"y\":362,\"frameWidth\":612,\"frameX\":0,\"frameHeight\":275,\"width\":612,\"height\":253,\"name\":\"faguang\",\"x\":1},{\"frameY\":-10,\"y\":1,\"frameWidth\":142,\"frameX\":-14,\"frameHeight\":961,\"width\":118,\"height\":937,\"name\":\"bangqiubang\",\"x\":661},{\"frameY\":-3,\"y\":940,\"frameWidth\":71,\"frameX\":0,\"frameHeight\":71,\"width\":69,\"height\":68,\"name\":\"leiqiu\",\"x\":1},{\"frameY\":-8,\"y\":617,\"frameWidth\":329,\"frameX\":-4,\"frameHeight\":199,\"width\":318,\"height\":179,\"name\":\"quanleidawenzi\",\"x\":1}]}",
+  "texture": "7cacc9f0-0e99-4268-97dd-636fd3546ce7",
+  "subMetas": {}
+}

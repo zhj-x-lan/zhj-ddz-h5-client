@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "70abeb10-be2a-42f6-89b0-c83c6a4fba40",
+  "atlasJson": "{\"imagePath\":\"cha_tex.png\",\"SubTexture\":[{\"width\":137,\"y\":485,\"height\":93,\"name\":\"cha2\",\"x\":1},{\"width\":128,\"y\":210,\"height\":134,\"name\":\"cha\",\"x\":1},{\"width\":101,\"y\":1,\"height\":172,\"name\":\"chabao-\",\"x\":400},{\"width\":238,\"y\":375,\"height\":108,\"name\":\"chabao0\",\"x\":1},{\"width\":162,\"y\":191,\"height\":182,\"name\":\"chabao1\",\"x\":194},{\"width\":156,\"y\":375,\"height\":165,\"name\":\"chabao2\",\"x\":241},{\"width\":191,\"y\":1,\"height\":207,\"name\":\"chabao3\",\"x\":1},{\"width\":204,\"y\":1,\"height\":188,\"name\":\"chabao4\",\"x\":194},{\"width\":150,\"y\":191,\"height\":151,\"name\":\"chabao5\",\"x\":358}],\"name\":\"cha\"}",
+  "texture": "efd992a9-3885-4650-9c8e-64e865d3e455",
+  "subMetas": {}
+}

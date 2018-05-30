@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "dee43052-c5f1-47fe-9488-5bbdd67f3a87",
+  "atlasJson": "{\"SubTexture\":[{\"width\":298,\"y\":232,\"height\":229,\"name\":\"feijitouying\",\"x\":1},{\"width\":153,\"y\":463,\"height\":44,\"name\":\"suduxian\",\"x\":1},{\"width\":298,\"y\":1,\"height\":229,\"name\":\"feiji\",\"x\":1},{\"width\":166,\"y\":1,\"height\":78,\"name\":\"yuncai01\",\"x\":301},{\"width\":67,\"y\":463,\"height\":32,\"name\":\"yuncai02\",\"x\":156}],\"name\":\"feiji\",\"imagePath\":\"feiji_tex.png\"}",
+  "texture": "e301628a-63bf-4407-8fd8-dbd4620aecd3",
+  "subMetas": {}
+}

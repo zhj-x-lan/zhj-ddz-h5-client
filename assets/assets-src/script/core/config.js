@@ -1,0 +1,9 @@
+// var serverIp = '47.104.25.227';   //测试服务器
+// var serverIp = '101.200.29.247';  //正式服务器
+// var serverIp = "192.168.1.166";	 //王明洋  
+var serverIp = "192.168.1.42";	 //王阳
+// var serverIp = "192.168.1.160";	 //宋君
+// var serverIp = "192.168.1.254";	 //吴全东
+// var serverIp = 'tianjin.shenhe.ry-play.com';
+// var serverIp = "mahjong.ry-huadian.com";
+// var serverIp = 'localhost';

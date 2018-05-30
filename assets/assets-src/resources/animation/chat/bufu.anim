@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "bufu",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.6833333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "462b735d-17e1-47c5-9dea-44e2d32288f9"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "168def74-e3bf-4dbd-ab80-b103e2040977"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "7b7a54f6-f26c-4267-9af9-bf84fb65f226"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "9bdc5770-b2b9-4d97-b997-58b13810f22f"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "462b735d-17e1-47c5-9dea-44e2d32288f9"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "0898caaf-f77d-4505-80f3-70036af354cc",
+  "atlasJson": "{\"imagePath\":\"santonghua_tex.png\",\"SubTexture\":[{\"frameWidth\":720,\"y\":234,\"frameX\":0,\"frameHeight\":200,\"frameY\":-1,\"width\":720,\"height\":198,\"name\":\"diban\",\"x\":1},{\"frameWidth\":720,\"y\":434,\"frameX\":0,\"frameHeight\":231,\"frameY\":-34,\"width\":720,\"height\":162,\"name\":\"sanshunzi1\",\"x\":1},{\"width\":720,\"y\":1,\"height\":231,\"name\":\"sanshunzi3\",\"x\":1},{\"frameWidth\":315,\"y\":598,\"frameX\":-4,\"frameHeight\":118,\"frameY\":-6,\"width\":305,\"height\":104,\"name\":\"sanshunzi2\",\"x\":1},{\"width\":117,\"y\":598,\"height\":116,\"name\":\"guangxiao\",\"x\":308}],\"name\":\"santonghua\"}",
+  "texture": "27c79e99-f3ad-4811-a429-0eb4d8a1d065",
+  "subMetas": {}
+}

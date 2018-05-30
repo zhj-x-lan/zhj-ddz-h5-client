@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "c7998135-44b0-45bb-bac5-73793cdc2436",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "huier2_icon": {
+      "ver": "1.0.3",
+      "uuid": "a2c37d6f-4169-439c-9d50-140c770e46fa",
+      "rawTextureUuid": "c7998135-44b0-45bb-bac5-73793cdc2436",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -0.5,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 25,
+      "height": 54,
+      "rawWidth": 26,
+      "rawHeight": 55,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

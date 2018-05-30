@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "80af775f-486f-45ec-825e-70172536414d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Img_GameTable_TimeBg": {
+      "ver": "1.0.3",
+      "uuid": "c72a6128-634d-4686-859c-94680e3cbf03",
+      "rawTextureUuid": "80af775f-486f-45ec-825e-70172536414d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 124,
+      "height": 132,
+      "rawWidth": 124,
+      "rawHeight": 134,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

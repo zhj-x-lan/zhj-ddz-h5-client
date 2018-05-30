@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "66278547-1c02-4f6c-9b98-67143ff22c6d",
+  "atlasJson": "{\"SubTexture\":[{\"width\":229,\"y\":1,\"height\":413,\"name\":\"huojiantouying\",\"x\":232},{\"width\":129,\"y\":1,\"height\":331,\"name\":\"huojianhuo\",\"x\":463},{\"width\":229,\"y\":1,\"height\":413,\"name\":\"huojian\",\"x\":1}],\"name\":\"huojian\",\"imagePath\":\"huojian_tex.png\"}",
+  "texture": "057a68f6-8c08-4d6c-9dd4-9c16a7c667c3",
+  "subMetas": {}
+}

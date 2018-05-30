@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "kuaidian",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.6833333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "2be66b5c-6c45-4f4d-908c-098a13482d2e"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "016c1c8f-027d-4207-a8f9-116a45d1d515"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "5c18086c-99cb-4eb2-a40e-091e74a82aaf"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "22b19e58-cf8d-4ae4-b50a-c2c0ff99c252"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "2be66b5c-6c45-4f4d-908c-098a13482d2e"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

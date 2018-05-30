@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "75cddbc1-ee5d-4211-8986-8be776744bb3",
+  "atlasJson": "{\"imagePath\":\"qiangji_tex.png\",\"SubTexture\":[{\"frameWidth\":288,\"y\":1,\"frameX\":-3,\"frameHeight\":203,\"frameY\":-5,\"width\":285,\"height\":197,\"name\":\"zuoluo\",\"x\":1},{\"width\":71,\"y\":200,\"height\":22,\"name\":\"8\",\"x\":1}],\"name\":\"qiangji\"}",
+  "texture": "c981cd52-83a6-422d-a028-8b565ecb0338",
+  "subMetas": {}
+}

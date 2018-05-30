@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "48dd5bd5-5d1c-434c-a528-222bbc232e71",
+  "atlasJson": "{\"SubTexture\":[{\"frameX\":0,\"frameHeight\":168,\"y\":1,\"frameY\":-3,\"frameWidth\":308,\"width\":308,\"height\":165,\"name\":\"faguang1\",\"x\":1},{\"frameX\":0,\"frameHeight\":66,\"y\":168,\"frameY\":0,\"frameWidth\":133,\"width\":131,\"height\":66,\"name\":\"tiezhi2\",\"x\":1}],\"name\":\"tiezhi_1\",\"imagePath\":\"tiezhi_1_tex.png\"}",
+  "texture": "48dbfb5d-e97d-42f9-8680-395feff3d928",
+  "subMetas": {}
+}
